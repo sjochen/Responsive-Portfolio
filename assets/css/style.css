@@ -143,7 +143,7 @@ body {
   }
 
   #ph2 {
-    background: url(../images/ph2.jpg) no-repeat;
+    background: url(../images/bg.jpg) no-repeat;
     background-size: 300px 300px;
     width: 300px;
     height: 300px;
@@ -153,7 +153,7 @@ body {
   }
 
   #ph3 {
-    background: url(../images/ph3.jpg) no-repeat;
+    background: url(../images/off.jpg) no-repeat;
     background-size: 300px 300px;
     width: 300px;
     height: 300px;
