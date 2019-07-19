@@ -280,18 +280,31 @@ body {
 
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 840px){
 
     .head {
-        max-width: 768px;
-        width: 90%;
+        max-width: 840px;
+        width: 100%;
         
+    }
+
+    #name{
+        float: none;
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        max-height: 75px;
+        
+
     }
 
     .content {
         width: 90%;
     }
 
+    li {
+        width: 33%;
+    }
 
 
     #ph1 {
@@ -325,6 +338,14 @@ body {
 
     }
     #ph5 {
+
+        height: 200px;
+        width: 200px;
+        
+
+    }
+
+    #ph6 {
 
         height: 200px;
         width: 200px;
@@ -424,7 +445,14 @@ body {
 
     }
 
+    #ph6 {
 
+        height: 100%;
+        width: 100%;
+        background-size: 100%;
+        
+
+    }
  
 
 }
